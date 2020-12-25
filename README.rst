@@ -135,3 +135,5 @@ toolkit <https://github.com/jonathanslenders/python-prompt-toolkit>`__
    :target: http://www.apache.org/licenses/LICENSE-2.0.html
 .. |Gitter chat| image:: http://badges.gitter.im/kube-shell/Lobby.svg
    :target: https://gitter.im/kube-shell/Lobby
+# 2020-12-25  
+👍
